@@ -1,7 +1,0 @@
-name: PlayerClasses
-author: CodenameFlip
-main: net.cubblesfakemythric.playerclasses.Main
-version: 1.0
-commands:
-  class:
-  chooseclass:
